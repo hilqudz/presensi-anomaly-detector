@@ -15,7 +15,7 @@ Aplikasi Machine Learning untuk mendeteksi anomali pola kedatangan pegawai mengg
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/presensi-anomaly-detector.git
+git clone https://github.com/hilqudz/presensi-anomaly-detector.git
 cd presensi-anomaly-detector
 ```
 

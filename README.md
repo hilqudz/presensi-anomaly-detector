@@ -33,7 +33,9 @@ Aplikasi akan terbuka di browser pada `http://localhost:8501`
 
 ## 📁 Format Data CSV
 
-Jika ingin upload data sendiri, pastikan format CSV seperti ini:
+Untuk testing, Anda bisa download file `sample_data.csv` yang sudah tersedia di repository ini.
+
+Atau jika ingin upload data sendiri, pastikan format CSV seperti ini:
 
 ```csv
 Nama,Tanggal,Jam_Datang

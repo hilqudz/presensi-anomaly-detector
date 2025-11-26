@@ -10,6 +10,7 @@ Aplikasi Machine Learning untuk mendeteksi anomali pola kedatangan pegawai mengg
 - **🔍 Individual Check**: Pemeriksaan status anomali per pegawai
 - **📤 File Upload**: Support upload CSV custom atau gunakan data dummy
 - **🎯 Real-time Results**: Analisis dan hasil langsung
+- **📓 Tech Talk Notebook**: Jupyter notebook dengan penjelasan step-by-step
 
 ## 🚀 Cara Menjalankan
 
@@ -30,6 +31,21 @@ streamlit run app.py
 ```
 
 Aplikasi akan terbuka di browser pada `http://localhost:8501`
+
+## 📓 Tech Talk Notebook
+
+Untuk memahami algoritma dan implementasi secara detail, buka file `tech_talk.ipynb`. Notebook ini berisi:
+
+1. **Step-by-step explanation** dari pembuatan data dummy
+2. **Feature engineering** dengan volatilitas analysis  
+3. **Machine learning training** dengan Isolation Forest
+4. **Visualisasi hasil** dengan matplotlib dan seaborn
+
+**Cara menjalankan notebook:**
+```bash
+pip install jupyter
+jupyter notebook tech_talk.ipynb
+```
 
 ## 📁 Format Data CSV
 
